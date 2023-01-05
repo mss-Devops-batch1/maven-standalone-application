@@ -23,11 +23,11 @@
 	
 	<description>Maven Standalone Application</description>
 
-     <!--	<properties>
+     	<properties>
 		<sonar.host.url>http://15.206.28.186:8088/</sonar.host.url>
 		<sonar.login>squ_9b4ee36b6214bed593a45ecb90d9221ae8d68b86</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	</properties>-->
+	</properties>
 
 	<dependencies>
 
